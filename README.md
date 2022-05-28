@@ -1,7 +1,7 @@
 Chrome Extension Leads Tracker
-deeloped with Javascript for saving urls
+developed with Javascript for saving urls
 
-LIVE demo: https://
+LIVE demo: https://michaljakubhoppe.github.io/Leads-Tracker---a-Chrome-extension/
 
 
 
